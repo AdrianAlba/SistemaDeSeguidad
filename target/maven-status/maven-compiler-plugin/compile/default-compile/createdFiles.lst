@@ -1,0 +1,5 @@
+com\mycompany\sistemadeseguidad\ControlDeAcceso.class
+com\mycompany\sistemadeseguidad\SistemaDeSeguidad.class
+com\mycompany\sistemadeseguidad\Empleado.class
+com\mycompany\sistemadeseguidad\RegistroSalida.class
+com\mycompany\sistemadeseguidad\RegistoEntrada.class
